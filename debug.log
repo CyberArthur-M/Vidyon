@@ -1,0 +1,69 @@
+2026-02-05T22:25:09.853Z [console][log] [HMR] connected
+2026-02-05T22:25:09.862Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:10.868Z [console][log] [HMR] connected
+2026-02-05T22:25:10.888Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:11.894Z [console][log] [HMR] connected
+2026-02-05T22:25:11.902Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:12.911Z [console][log] [HMR] connected
+2026-02-05T22:25:12.920Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:13.929Z [console][log] [HMR] connected
+2026-02-05T22:25:13.939Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:20.809Z [console][log] [HMR] connected
+2026-02-05T22:25:20.820Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:21.839Z [console][log] [HMR] connected
+2026-02-05T22:25:21.848Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:22.859Z [console][log] [HMR] connected
+2026-02-05T22:25:22.870Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:23.876Z [console][log] [HMR] connected
+2026-02-05T22:25:23.884Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:24.894Z [console][log] [HMR] connected
+2026-02-05T22:25:24.909Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:25.914Z [console][log] [HMR] connected
+2026-02-05T22:25:25.920Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:26.925Z [console][log] [HMR] connected
+2026-02-05T22:25:26.936Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:27.942Z [console][log] [HMR] connected
+2026-02-05T22:25:27.950Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:28.962Z [console][log] [HMR] connected
+2026-02-05T22:25:28.975Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:25:29.984Z [console][log] [HMR] connected
+2026-02-05T22:25:29.994Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:23:06.747Z [network][POST 500] http://127.0.0.1:8000/generate-video
+  request: {"prompt":"make a video of rolling ball","duration":10}
+  response: {"detail":"Video generation failed: index 0 is out of bounds for dimension 0 with size 0"}
+2026-02-05T22:34:35.414Z [console][log] [HMR] connected
+2026-02-05T22:34:35.459Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:36.472Z [console][log] [HMR] connected
+2026-02-05T22:34:36.515Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:37.521Z [console][log] [HMR] connected
+2026-02-05T22:34:37.564Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:38.574Z [console][log] [HMR] connected
+2026-02-05T22:34:38.620Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:39.632Z [console][log] [HMR] connected
+2026-02-05T22:34:39.675Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:40.687Z [console][log] [HMR] connected
+2026-02-05T22:34:40.730Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:41.741Z [console][log] [HMR] connected
+2026-02-05T22:34:41.784Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:42.795Z [console][log] [HMR] connected
+2026-02-05T22:34:42.838Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:45.756Z [console][log] [HMR] connected
+2026-02-05T22:34:45.802Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:46.809Z [console][log] [HMR] connected
+2026-02-05T22:34:46.855Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:47.860Z [console][log] [HMR] connected
+2026-02-05T22:34:47.906Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:48.913Z [console][log] [HMR] connected
+2026-02-05T22:34:48.957Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:49.972Z [console][log] [HMR] connected
+2026-02-05T22:34:50.016Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:51.018Z [console][log] [HMR] connected
+2026-02-05T22:34:51.061Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:34:52.079Z [console][log] [HMR] connected
+2026-02-05T22:34:52.123Z [console][log] [Fast Refresh] rebuilding
+2026-02-05T22:31:01.868Z [network][POST 200] /__nextjs_original-stack-frames
+  request: {"frames":[{"file":"https://react.dev/link/hydration-mismatch","line1":null,"column1":null,"methodName":"<unknown>","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_f3530cac._.js","line1":2199,"column1":71,"methodName":"createConsoleError","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_f3530cac._.js","line1":2980,"column1":54,"methodName":"handleConsoleError","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_f3530cac._.js","line1":3124,"column1":57,"methodName":"console.error","arguments":[]},{"file":"<anonymous>","line1":86,"column1":44,"methodName":"console.error","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js","line1":3469,"column1":25,"methodName":"<unknown>","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js","line1":965,"column1":74,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js","line1":3468,"column1":13,"methodName":"emitPendingHydrationWarnings","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js","line1":6897,"column1":102,"methodName":"completeWork","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js","line1":965,"column1":131,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://E:/assasvideofinal render/frontend/.next/dev/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js","line1":9627,"column1":23,"methodName":"completeUn... [truncated]
+  response: [{"status":"rejected","reason":"[Error: Unknown url scheme 'https'\n\nDebug info:\n- Execution of project_trace_source_operation failed\n- Execution of *SourceMap::new_from_rope_cached failed\n- Execution of get_source_map_rope failed\n- Unknown url scheme 'https'] {\n  code: 'GenericFailure'\n}"},{"status":"rejected","reason":"[Error: Original file (file:///E:/assasvideofinal render/frontend/node_modules/next/src/next-devtools/shared/console-error.ts) outside project (file:///E:/assasvideofinal%20render/frontend/)\n\nDebug info:\n- Execution of project_trace_source_operation failed\n- Original file (file:///E:/assasvideofinal render/frontend/node_modules/next/src/next-devtools/shared/console-error.ts) outside project (file:///E:/assasvideofinal%20render/frontend/)] {\n  code: 'GenericFailure'\n}"},{"status":"rejected","reason":"[Error: Original file (file:///E:/assasvideofinal render/frontend/node_modules/next/src/next-devtools/userspace/app/errors/use-error-handler.ts) outside project (file:///E:/assasvideofinal%20render/frontend/)\n\nDebug info:\n- Execution of project_trace_source_operation failed\n- Original file (file:///E:/assasvideofinal render/frontend/node_modules/next/src/next-devtools/userspace/app/errors/use-error-handler.ts) outside project (file:///E:/assasvideofinal%20render/frontend/)] {\n  code: 'GenericFailure'\n}"},{"status":"rejected","reason":"[Error: Original file (file:///E:/assasvideofinal render/frontend/node_modules/next/src/next-devtools/userspace/app/errors/intercept-console-error.ts) outside project (file:///E:/assasvideofinal%20render/frontend/)\n\nDebug info:\n- Execution of project_trace_source_operation failed\n- Original file (file:///E:/assasvideofinal render/frontend/node_modules/next/src/next-devtools/userspace/app/errors/intercept-console-error.ts) outside project (file:///E:/assasvideofinal%20render/frontend/)] {\n  code: 'GenericFailure'\n}"},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"<anonymo... [truncated]
+2026-02-05T22:33:57.094Z [network][POST 0] http://127.0.0.1:8000/generate-video
+  request: {"prompt":"make a video of a rolling ball","duration":10}
+  response: Request failed: Failed to fetch
